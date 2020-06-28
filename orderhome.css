@@ -43,9 +43,9 @@ ul li{
     padding:17px;
     font-size:1rem;
     font-weight:bolder;
-    
-    font-family: sans-serif;
     background-color:yellow;
+    font-family: sans-serif;
+    
 }
 .button:hover{
     background-color:black;
