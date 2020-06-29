@@ -1,5 +1,5 @@
 html,body{
-  background-color: red;
+  background:linear-gradient(to top ,black 20%,blue 50%,purple 10%,blue ,orange);
   box-sizing: border-box;
   margin:0;
   padding:0;
